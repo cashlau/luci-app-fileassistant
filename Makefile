@@ -1,9 +1,6 @@
-# Copyright (C) 2019  sirpdboy <https://github.com/sirpdboy/luci-app-advanced/>
-# 
-#
-#
+# From https://github.com/DarkDean89/luci-app-filebrowser
+# From https://github.com/stuarthua/oh-my-openwrt/tree/master/stuart/luci-app-fileassistant
 # This is free software, licensed under the Apache License, Version 2.0 .
-# 
 
 include $(TOPDIR)/rules.mk
 
